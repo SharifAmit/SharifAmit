@@ -6,7 +6,7 @@
 
 - :computer: I regularly publish paper on GANs, Semi-supervised Learning and Multi-objective Learning.
 
--  :pill: I have worked as an Data Analytics Intern at Genentech from May-Dec 2021 and May-Aug 2022.
+-  :pill: I have worked as an Data Analytics & Imaging Intern at Genentech from May-Dec 2021 and May-Aug 2022.
 
 
 ## Selected Publications
