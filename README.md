@@ -1,5 +1,6 @@
 <h3 align="center"> Deep learning researcher working on Bio-medical Imaging </h3>
 
+- :mag_right: **I am actively looking for full-time deep learning/medical imaging/computer vision research positions from May 2023**.
 
 - :hourglass: PhD. Candidate in CS at  [University of Nevada, Reno](https://www.cse.unr.edu/).
 
