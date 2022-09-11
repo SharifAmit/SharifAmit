@@ -50,6 +50,7 @@
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://fiji.sc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/FIJI_%28software%29_Logo.svg" alt="Fiji" width="40" height="40"/> </a>
+<a href="https://vtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg" alt="VTK" width="40" height="40"/> </a>
 
 ## Systems and Containers
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
