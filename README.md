@@ -4,7 +4,7 @@
 
 - :hourglass: PhD. Candidate in CS at  [University of Nevada, Reno](https://www.cse.unr.edu/).
 
-- :computer: I regularly publish paper on GANs, Semi-supervised Learning and Multi-objective Learning. [Google Scholar](https://scholar.google.com/citations?user=DW0hlZsAAAAJ&hl=en)
+- :computer: I regularly publish paper on GANs, Semi-supervised Learning and Multi-objective Learning. [[Google Scholar]](https://scholar.google.com/citations?user=DW0hlZsAAAAJ&hl=en)
 
 -  :pill: I have worked as an Data Analytics & Imaging Intern at [Genentech](https://www.gene.com/) from May-Dec 2021 and May-Aug 2022.
 
