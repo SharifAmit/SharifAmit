@@ -1,7 +1,7 @@
 <h3 align="center"> Deep learning researcher working on Bio-medical Imaging </h3>
 
 
-- :hourglass: PhD. Candidate in CS at  [University of Nevada](https://www.cse.unr.edu/)
+- :hourglass: PhD. Candidate in CS at  [University of Nevada, Reno](https://www.cse.unr.edu/)
 
 - :computer: I regularly publish paper on GANs, Semi-supervised Learning and Multi-objective Learning.
 
