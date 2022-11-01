@@ -11,7 +11,7 @@
 
 # Selected Publications
 
-- `07.25.2022` [Feature Representation Learning for Robust Retinal Disease Detection from Optical Coherence Tomography Images](https://arxiv.org/abs/2206.12136) (MICCAI 2022)
+- `07.25.2022` [Feature Representation Learning for Robust Retinal Disease Detection from Optical Coherence Tomography Images](https://link.springer.com/chapter/10.1007/978-3-031-16525-2_3) (MICCAI 2022)
 - `05.25.2022` [New open-source software for subcellular segmentation and analysis of spatiotemporal fluorescence signals using deep learning](https://www.sciencedirect.com/science/article/pii/S2589004222005478) (iScience, Cell Press)
 - `11.24.2021` [VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers](https://ieeexplore.ieee.org/document/9607858) (ICCV 2021)
 - `09.21.2021` [RV-GAN: Segmenting retinal vascular structure in fundus photographs using a novel multi-scale generative adversarial network](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_4) (MICCAI 2021)
