@@ -1,7 +1,7 @@
 <h3 align="center"> Deep learning researcher working on Bio-medical Imaging </h3>
 
-- :mag_right: **I'm in the job market and actively looking for full-time positions in Deep Learning, Computer Vision and Medical Imaging from May 2023**. [[Curriculum Vitae]](https://www.sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf) 
-
+<!-- :mag_right: **I'm in the job market and actively looking for full-time positions in Deep Learning, Computer Vision and Medical Imaging from May 2023**. [[Curriculum Vitae]](https://www.sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf) 
+-->
 - :hourglass: PhD. Candidate in CS at  [University of Nevada, Reno](https://www.cse.unr.edu/).
 
 - :computer: I regularly publish paper on GANs, Semi-supervised Learning and Multi-objective Learning. [[Google Scholar]](https://scholar.google.com/citations?user=DW0hlZsAAAAJ&hl=en)
