@@ -2,7 +2,7 @@
 
 <!-- :mag_right: **I'm in the job market and actively looking for full-time positions in Deep Learning, Computer Vision and Medical Imaging from May 2023**. [[Curriculum Vitae]](https://www.sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf) 
 -->
-- :hourglass: Radiology AI Postodctoral Scientist at [Johnson & Johnson](https://www.jnj.com/). 
+- :syringe: Radiology AI Postodctoral Scientist at [Johnson & Johnson](https://www.jnj.com/). 
 - :mortar_board: PhD. in CS from [University of Nevada, Reno](https://www.cse.unr.edu/). [[Curriculum Vitae]](https://www.sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf) 
 
 - :computer: I regularly publish paper on GANs, Semi-supervised Learning and Multi-objective Learning. [[Google Scholar]](https://scholar.google.com/citations?user=DW0hlZsAAAAJ&hl=en)
