@@ -5,7 +5,7 @@
 - :syringe: Radiology AI Postodctoral Scientist at [Johnson & Johnson](https://www.jnj.com/). 
 - :mortar_board: PhD. in CS from [University of Nevada, Reno](https://www.cse.unr.edu/). [[Curriculum Vitae]](https://www.sharifamit.com/files/Sharif_Amit_Kamran_CV.pdf) 
 
-- :computer: I regularly publish paper on GANs, Semi-supervised Learning and Multi-objective Learning. [[Google Scholar]](https://scholar.google.com/citations?user=DW0hlZsAAAAJ&hl=en)
+- :computer: I regularly publish paper on GANs, Semi-supervised Learning and Multi-objective Learning. [[Google Scholar]](https://scholar.google.com/citations?user=VPbqTxEAAAAJ)
 
 -  :pill: I have worked as an Data, Analytics & Imaging Intern at [Genentech](https://www.gene.com/) from May-Dec 2021 and May-Aug 2022.
 
